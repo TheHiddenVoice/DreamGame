@@ -25,7 +25,7 @@ public class PlayerController : MonoBehaviour {
 		float mouse = CrossPlatformInputManager.GetAxis ("Mouse X");
 		float horizontal = Input.GetAxis ("Horizontal");
 		float vertical = Input.GetAxis ("Vertical");
-		transform.Rotate (0, mouse, 0);
+		transform.Rotate (0, mouse * 2, 0);
 		if (chara.isGrounded) {
 			float x = horizontal * speed;
 			if (horizontal < 0) {

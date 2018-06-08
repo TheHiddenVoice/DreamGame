@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 168
+  controlID: 105
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 442}
   m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 146
+  controlID: 106
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -158,7 +158,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 30
+  controlID: 13
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 147
+  controlID: 107
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -279,8 +279,8 @@ MonoBehaviour:
     y: 0
     width: 185
     height: 352
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -477,9 +477,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.036098074, y: 0.96348745, z: -0.1726511, w: -0.20144615}
   m_Size:
-    m_Target: 1.8213463
+    m_Target: 4.0342817
     speed: 2
-    m_Value: 1.8213463
+    m_Value: 4.0342817
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -574,9 +574,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 96fbffff00000000
+    m_SelectedIDs: 7cfbffff
+    m_LastClickedID: -1156
+    m_ExpandedIDs: 7cfbffff7efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -708,19 +708,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Placeholders
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 46
   m_LastFolders:
-  - Assets/Placeholders
+  - Assets
   m_LastFoldersGridSize: 46
-  m_LastProjectPath: C:\Users\KidsFun\Documents\Unity Projects\GDC Project 2.0
+  m_LastProjectPath: C:\Users\KidsFun\Documents\Project\GDC Project 2.0
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: 3c2c0000
-    m_LastClickedID: 11324
-    m_ExpandedIDs: 00000000d02a0000002c00007c2c0000d22c00000a2e0000342e0000a42e000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 6a2a0000
+    m_LastClickedID: 10858
+    m_ExpandedIDs: 000000006a2a0000522b00002e2d0000302d0000322d0000342d0000362d0000ce2f0000d02f0000e82f0000f62f00000630000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -748,7 +748,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 622a0000
     m_LastClickedID: 10850
-    m_ExpandedIDs: 00000000d02a0000002c00007c2c0000d22c00000a2e0000342e0000a42e0000
+    m_ExpandedIDs: 000000006a2a0000522b00002e2d0000302d0000322d0000342d0000362d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -775,7 +775,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: b42200001e1e0000401e0000981e0000003300009aa2edff6a250000fc1d0000564d000046540000041e0000b81d0000201c00001a310000144100000a430000b83b00006e75fdff542d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -830,7 +830,7 @@ MonoBehaviour:
     width: 334
     height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 120}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 208
